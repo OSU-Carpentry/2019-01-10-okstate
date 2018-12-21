@@ -704,6 +704,7 @@ and our administrator may contact you if we need any extra information.</h4>
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
 -->
 
+<!--
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
@@ -750,6 +751,7 @@ and our administrator may contact you if we need any extra information.</h4>
     </div>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
+-->
 
 {% comment %}
 <div id="vm">
